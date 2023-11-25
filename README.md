@@ -4,10 +4,10 @@ Archiving as Windows now has `Windows + v`
 
 ---
 
-# Multi Clipboard
+
 Switch clipboard contents using a simple GUI<br />
-Images, text, files and other formats are supported with unlimited amounts of saved clipboards able to be created.<br />
-The idea of this is to easily switch clipboards with a simple click in a GUI. It comes with a built in listener for Ctrl + Windows + C
+Images, text, files, and other formats are supported with unlimited amounts of saved clipboards able to be created.<br />
+The idea of this is to easily switch clipboards with a simple click in a GUI. It comes with a built-in listener for Ctrl + Windows + C
 
 ![Main GUI](https://nitratine.net/posts/multi-clipboard/main-gui.png)
 
